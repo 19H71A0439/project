@@ -2,9 +2,12 @@ hello
 i am learning git hub
 python projects implementation
 dbms learning
+
 sql
 django
 file box
 databases
 thank you
-tank you
+
+done
+
